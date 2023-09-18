@@ -34,7 +34,7 @@ Příklad registrace:
 2. Výpis všech studentů
 3. Hledani studenta
 
-Zadej volbu (1-2): 1
+Zadej volbu (1-3): 1
 
 Jmeno: Jan
 Příjmení: Novák
@@ -46,7 +46,7 @@ Příklad výpisu:
 2. Výpis všech studentů
 3. Hledani studenta
 
-Zadej volbu (1-2): 2
+Zadej volbu (1-3): 2
 
 NOVÁK, Jan (--)
 POSPÍŠILOVÁ, Petra (2.1)
@@ -64,7 +64,7 @@ Příklad hledání:
 2. Výpis všech studentů
 3. Hledani studenta
 
-Zadej volbu (1-2): 3
+Zadej volbu (1-3): 3
 
 Jmémno nebo příjmení: Novák
 
@@ -79,7 +79,7 @@ Příklad hledání:
 2. Výpis všech studentů
 3. Hledani studenta
 
-Zadej volbu (1-2): 3
+Zadej volbu (1-3): 3
 
 Jmémno nebo příjmení: Nevim
 
