@@ -14,7 +14,7 @@ Program bude podporovat následujíci operace:
 
 ## Přiklad souboru se studenty
 Formát v jakém se informace o studentech ukládají je na vás.\
-Jednou z možností je CSV (https://cs.wikipedia.org/wiki/CSV0).
+Jednou z možností je CSV (https://cs.wikipedia.org/wiki/CSV).
 
 Přiklad souboru:
 ```text
